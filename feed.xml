@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<channel>
+<title>Teach Bot Reports</title>
+<link>https://alsonateliebermann-wq.github.io/teachbot-reports/</link>
+<description>Private commute reports for Nate.</description>
+<language>en-us</language>
+<itunes:author>Teach Bot</itunes:author>
+<itunes:explicit>false</itunes:explicit>
+<itunes:block>yes</itunes:block>
+<itunes:image href="https://alsonateliebermann-wq.github.io/teachbot-reports/artwork.png"/>
+<itunes:category text="Education"/>
+<item>
+<title>Google Genie Report</title>
+<description>A commute briefing on Google DeepMind's Genie world models, versions 1 through 4: how they work, what they can do, and their limits.</description>
+<enclosure url="https://alsonateliebermann-wq.github.io/teachbot-reports/episodes/google-genie-report.mp3" length="10895372" type="audio/mpeg"/>
+<guid isPermaLink="false">teachbot-google-genie-2026-10-31</guid>
+<pubDate>Sat, 31 Oct 2026 18:00:00 -0700</pubDate>
+<itunes:duration>15:08</itunes:duration>
+</item>
+</channel>
+</rss>
